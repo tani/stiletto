@@ -1,0 +1,40 @@
+{
+  "name": "stiletto",
+  "version": "0.1.0",
+  "description": "stylesheet inliner",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && tsc -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tani/stylet.git"
+  },
+  "keywords": [
+    "css",
+    "stylesheet",
+    "inline",
+    "inliner"
+  ],
+  "author": "TANIGUCHI Masaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tani/stylet/issues"
+  },
+  "homepage": "https://github.com/tani/stylet#readme",
+  "dependencies": {
+    "css": "^3.0.0",
+    "css-select": "^4.2.1",
+    "dom-serializer": "^1.3.2",
+    "htmlparser2": "^7.2.0"
+  },
+  "devDependencies": {
+    "@types/css": "0.0.33",
+    "typescript": "^4.5.5"
+  },
+  "files": [
+    "README.md",
+    "dist/index.js",
+    "dist/index.d.ts"
+  ]
+}
