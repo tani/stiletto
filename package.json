@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tani/stylet.git"
+    "url": "git+ssh://git@github.com/tani/stiletto.git"
   },
   "keywords": [
     "css",
@@ -19,9 +19,9 @@
   "author": "TANIGUCHI Masaya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tani/stylet/issues"
+    "url": "https://github.com/tani/stiletto/issues"
   },
-  "homepage": "https://github.com/tani/stylet#readme",
+  "homepage": "https://github.com/tani/stiletto#readme",
   "dependencies": {
     "css": "^3.0.0",
     "css-select": "^4.2.1",
