@@ -1,6 +1,6 @@
-# Stylet
+# Stiletto
 
-This is an stylesheet inliner
+Given HTML, stiletto will inline your CSS properties into the style attribute.
 
 ## Installation
 
