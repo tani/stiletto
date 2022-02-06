@@ -1,6 +1,6 @@
 {
   "name": "stiletto",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "stylesheet inliner",
   "main": "dist/index.js",
   "scripts": {
